@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 
 import AppHeader from "../app-header";
 import TodoList from "../todo-list";
