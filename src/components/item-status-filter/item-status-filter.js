@@ -4,7 +4,7 @@ import './item-status-filter.css'
 
 export default class ItemStatusFilter extends Component {
 
-    buttons = [{name: 'all', label: 'ALL'}, {name: 'active', label: 'Aclive'}, {name: 'done', label: 'Done'},]
+    buttons = [{name: 'all', label: 'ALL'}, {name: 'active', label: 'Active'}, {name: 'done', label: 'Done'},]
 
     render() {
 
